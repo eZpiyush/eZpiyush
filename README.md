@@ -9,7 +9,7 @@
 
 - 👯 I've collaborated on [Ghost-Glitch](https://github.com/iBrokenShadow/Ghost-Glitch)
 
-- 👨‍💻 All of my projects are available at [github.com/ezpiyush/](github.com/ezpiyush/)
+- 👨‍💻 All of my projects are available at [github.com/ezpiyush/](github.com/eZpiyush/)
 
 - 💬 **Currently working on DSA and WEB DEVELOPMENT**
 
