@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **javascript,Node.JS,python**
 
-- 👯 I’m looking to collaborate on [Ghost-Glitch](https://github.com/iBrokenShadow/Ghost-Glitch)
+- 👯 I've collaborated on [Ghost-Glitch](https://github.com/iBrokenShadow/Ghost-Glitch)
 
 - 👨‍💻 All of my projects are available at [github.com/ezpiyush/](github.com/ezpiyush/)
 
-- 💬 Ask me about **Currently working on DSA and WEB DEVELOPMENT**
+- 💬 **Currently working on DSA and WEB DEVELOPMENT**
 
-- 📫 How to reach me **linkedin.com/in/impiyushkumar/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
