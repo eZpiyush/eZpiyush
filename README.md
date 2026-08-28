@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezpiyush&label=Profile%20views&color=0e75b6&style=flat" alt="ezpiyush" /> </p>
 
-- 🔭 I’m currently working on [ezsnap](https://piyush0kumar.github.io/ezSnap/)
+- 🔭 I’m currently working on [ezsnap](https://piyush0kumar.github.io/DropNest/)
 
 - 🌱 I’m currently learning **Javascript, Node.JS, Python**
 
